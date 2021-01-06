@@ -20,6 +20,14 @@ feature:
   icon: fa-computer-classic
   icon_pack: fas
   name: Programming
+- description: 90%
+  icon: fa-computer-classic
+  icon_pack: fas
+  name: Latex
+- description: 80%
+  icon: fa-computer-classic
+  icon_pack: fas
+  name: Analysis
 - description: 80%
   icon: code-branch
   icon_pack: fab
