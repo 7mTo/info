@@ -40,5 +40,10 @@ experience:
     location: Kansas
     date_start: '2015-09-01'
     date_end: '2016-05-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Classes are:
+        
+        * General physics II
+        * Calculus I and II
+        * Discrete Mathematics
 ---
