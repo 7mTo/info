@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: King Abdullah University of Science and Technology
-    company_url: 'http://www.kaust.edu.sa'
+    company_url: ''
     location: Thuwal, Saudi Arabia
     date_start: '2018-31-01'
     date_end: '2020-15-12'
@@ -36,7 +36,7 @@ experience:
         
   - title: Tutor
     company: Kansas State University
-    company_url: 'http://www.k-state.edu'
+    company_url: ''
     location: Kansas
     date_start: '2016-01-09'
     date_end: '2016-14-05'
