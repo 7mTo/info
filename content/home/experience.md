@@ -34,11 +34,11 @@ experience:
         * Tutorial sessions and office hours
         * Preparing and grading homework
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Tutor
+    company: Kansas State University
+    company_url: 'https://www.k-state.edu/'
+    location: Kansas
+    date_start: '2015-09-01'
+    date_end: '2016-05-31'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
