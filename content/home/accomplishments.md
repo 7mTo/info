@@ -33,7 +33,7 @@ item:
 #  url: ""
 #item:
   - organization: i-Center
-    organization_url: 'https://www.coursera.org'
+    organization_url: 'https://www.math.k-state.edu/research/i-center/undergradscholars/index.html'
     title: i-Center Undergraduate Scholar Award
     url: ''
     certificate_url: 'https://www.math.k-state.edu/research/i-center/undergradscholars/2015-2016.html'
