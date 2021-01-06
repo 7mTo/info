@@ -40,7 +40,7 @@ experience:
     location: Kansas
     date_start: '2016-09-01'
     date_end: '2016-5-14'
-    description: Held office hours and personal sessions |2-
+    description: |2-
         Courses are:
         
         * General Physics II
