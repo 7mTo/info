@@ -34,11 +34,11 @@ experience:
         * Numerical analysis of PDEs
         * Numerical linear algebra
         * Numerical optimization
-    |2-
-        Responsibilities include:
-        
-        * Tutorial sessions and office hours
-        * Preparing and grading homework
+#    |2-
+#        Responsibilities include:
+#        
+#        * Tutorial sessions and office hours
+#        * Preparing and grading homework
         
   - title: Tutor
     company: Kansas State University
