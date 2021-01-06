@@ -17,14 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: fa-computer-classic
+  icon_pack: fas
+  name: Programming
+- description: 80%
+  icon: fa-code-branch
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Version Control
+- description: 70%
+  icon: fa-buromobelexperte
+  icon_pack: fab
+  name: Mesh Generation
+- description: 60%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description: 40%
   icon: camera-retro
   icon_pack: fas
   name: Photography
