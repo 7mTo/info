@@ -26,8 +26,8 @@ experience:
     company: King Abdullah University of Science and Technology
     company_url: 'http://www.kaust.edu.sa'
     location: Thuwal, Saudi Arabia
-    date_start: '2018-01-31'
-    date_end: '2020-12-15'
+    date_start: '2018-31-01'
+    date_end: '2020-15-12'
     description: |2-
         Responsibilities include:
         
@@ -38,8 +38,8 @@ experience:
     company: Kansas State University
     company_url: 'http://www.k-state.edu'
     location: Kansas
-    date_start: '2016-09-01'
-    date_end: '2016-5-14'
+    date_start: '2016-01-09'
+    date_end: '2016-14-05'
     description: |2-
         Courses are:
         
