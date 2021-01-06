@@ -34,7 +34,7 @@ experience:
         * Numerical analysis of PDEs
         * Numerical linear algebra
         * Numerical optimization
-    #|2-
+    |2-
         Responsibilities include:
         
         * Tutorial sessions and office hours
