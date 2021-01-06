@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Programming
 - description: 80%
-  icon: fa-code-branch
+  icon: code-branch
   icon_pack: fab
   name: Version Control
 - description: 70%
