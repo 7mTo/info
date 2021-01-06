@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.math.k-state.edu/research/i-center/undergradscholars/2015-2016.html
+- certificate_url: 'https://www.math.k-state.edu/research/i-center/undergradscholars/2015-2016.html'
   date_end: ""
   date_start: "2016-5-01"
   description: ""
   organization: i-Center
-  organization_url: https://www.math.k-state.edu/research/i-center/undergradscholars/index.html
+  organization_url: 'https://www.math.k-state.edu/research/i-center/undergradscholars/index.html'
   title: i-Center Undergraduate Scholar Award
   url: ""
 ---
