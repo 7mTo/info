@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -36,7 +36,7 @@ item:
     organization_url: 'https://www.coursera.org'
     title: i-Center Undergraduate Scholar Award
     url: ''
-    certificate_url: 'https://www.coursera.org'
+    certificate_url: 'https://www.math.k-state.edu/research/i-center/undergradscholars/2015-2016.html'
     date_start: '2016-05-01'
     date_end: ''
     description: ''
