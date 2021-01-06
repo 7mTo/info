@@ -14,7 +14,7 @@ organizations:
   url: https://www.kaust.edu.sa/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mohammed is a Mathematician with a solid background in scientific programming. Mohammed's mathematical interests are in the analysis of partial differential equations and the discretization thereof. Mohammed thrives in environments that empower him to make decisions about project planning and execution. Mohammed is also a great asset in most team combinations.
+bio: Mohammed is interested in the entropy analysis of fluid flow models and entropy stable discretizations for fluid flow models using discontinuous collocations methods.
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ social:
 #   link: media/resume_sayyari_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mohammed.alsayyari@kaust.edu.sa"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
