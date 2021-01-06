@@ -34,16 +34,16 @@ experience:
         * Tutorial sessions and office hours
         * Preparing and grading homework
         
-  - title: Tutor
-    company: Kansas State University
-    company_url: ''
-    location: Kansas
-    date_start: '2016'
-    date_end: '2016'
-    description: |2-
-        Courses are:
-        
-        * General Physics II
-        * Calculus I and II
-        * Discrete Math
+#  - title: Tutor
+#    company: Kansas State University
+#    company_url: ''
+#    location: Kansas
+#    date_start: '2016'
+#    date_end: '2016'
+#    description: |2-
+#        Courses are:
+#        
+#        * General Physics II
+#        * Calculus I and II
+#        * Discrete Math
 ---
