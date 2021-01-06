@@ -28,7 +28,7 @@ education:
   - course: PhD in Applied Mathematics
     institution: King Abdullah Universty of Science and Technology
     year: 2021
-  - course: MsC in Applied Mathematics
+  - course: MSc in Applied Mathematics
     institution: King Abdullah Universty of Science and Technology
     year: 2018
   - course: BSc in Computer Science with a minor in Mathematics
