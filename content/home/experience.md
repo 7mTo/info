@@ -29,6 +29,12 @@ experience:
     date_start: '2018-01-01'
     date_end: '2020-12-31'
     description: |2-
+        Classes are:
+        
+        * Numerical analysis of PDEs
+        * Numerical linear algebra
+        * Numerical optimization
+    #|2-
         Responsibilities include:
         
         * Tutorial sessions and office hours
