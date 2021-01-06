@@ -25,15 +25,14 @@ experience:
   - title: Teaching Assistant
     company: King Abdullah University of Science and Technology
     company_url: 'https://www.kaust.edu.sa/'
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Saudi Arabia
+    date_start: '2018-01-01'
+    date_end: '2020-12-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Tutorial sessions and office hours
+        * Preparing and grading homework
         
   - title: Professor
     company: University X
