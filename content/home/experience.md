@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: King Abdullah University of Science and Technology
-    company_url: ''
+    company_url: 'https://www.kaust.edu.sa/'
     location: California
     date_start: '2017-01-01'
     date_end: ''
