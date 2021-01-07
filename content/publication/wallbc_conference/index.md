@@ -35,7 +35,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Nonlinear (entropy) stability analysis is used to derive entropy–stable no–slip wall boundary conditions at the continuous and semi–discrete levels for the Eulerian model proposed by Svärd in 2018 (Physica A: Statistical Mechanics and its Applications, 2018). The spatial discretization is based on discontinuous Galerkin summation-by-parts operators of any order for unstructured grids. We provide a set of two–dimensional numerical results for laminar and turbulent flows simulated with both the Eulerian and classical Navier–Stokes models. These results are computed with a high-performance ℎ𝑝–entropy–stable solver, that also features explicit and implicit entropy–stable time integration schemes.
 
-tags: ["entropy", "boundary conditions", "Eulerian"]
+tags: []
+#tags: ["entropy", "boundary conditions", "Eulerian"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arc.aiaa.org/doi/10.2514/6.2021-1662'
+url_source: ''
 url_video: ''
 
 # Featured image
