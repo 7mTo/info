@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: The Eulerian model
+summary: A comprehensive study of the Eulerian model
 tags:
 - Eulerian
 date: "2018-01-01T00:00:00Z"
